@@ -35,14 +35,6 @@ plugins:
   - jekyll-feed
 
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-      author: "Terry"
 
 
 # Exclude from processing.
