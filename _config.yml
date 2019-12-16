@@ -34,6 +34,11 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
+github:
+  zip_url: https://github.com/emiller-intellias/jekyll-site.git
+  repository_url: https://github.com/emiller-intellias/jekyll-site.git
+  tar_url: https://github.com/emiller-intellias/jekyll-site.git
+  build_revision: 10
 
 
 
